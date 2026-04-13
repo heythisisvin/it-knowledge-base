@@ -1,0 +1,13 @@
+      "To request Wi-Fi access, please follow these steps:",
+            "A. Login to oa.88tech.net and login 88tech.net account",
+            "B. Choose AE02 to fill out the form for wifi access request",
+            "C. Important details to fill out the form is with * on it",
+            "D. To get the Mac Address of your device follow below:",
+            "   - For Windows: Open Command Prompt and type 'ipconfig /all' and look for 'Physical Address'",
+            "   - For Mac: Open Terminal and type 'ifconfig' and look for 'ether'",
+            "   - For Mobile: Go to Settings > About Phone > Status and look for 'Wi-Fi MAC address'",
+                " and make sure Random Mac Address is turn off on you device.",
+            "E. You need to choose the correct Wifi ID depending your office buidling.",
+            "F. After submitting the form, your supervisor will approve it.",
+            "G. Once approved, you will receive an chat with the Wi-Fi credentials and instructions for connecting to the network",
+            "H. If you have any issues, please message 999 in MSTeams for further assistance."
